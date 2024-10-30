@@ -1,1 +1,1 @@
-# Semantic-ROI-SR
+# Awesome-ImageSR
